@@ -1,0 +1,53 @@
+.people-list {
+  list-style-type: none;
+}
+
+.create-group {
+  margin-top: 20px;
+}
+
+.groups-container {
+  margin-top: 40px;
+}
+
+.groups-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.group-item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.group-item:hover {
+  background-color: #f0f0f0;
+}
+
+.group-item.selected {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.group-details {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-menu {
+  list-style-type: none;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.dropdown-menu li {
+  cursor: pointer;
+}
+
+.group-members {
+  margin-top: 10px;
+}
+
+/* Additional styling based on your preference */

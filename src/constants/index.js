@@ -1,0 +1,9 @@
+const ROLES = {
+  SUPER_ADMIN: "SUPER_ADMIN",
+  ADMIN: "ADMIN",
+  USER: "USER",
+  POWER_USER: "POWER_USER",
+  SUPPORT_DESK: "SUPPORT_DESK",
+};
+
+export { ROLES };
